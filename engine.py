@@ -13,7 +13,7 @@ import random
 from typing import Dict, List, Optional, Tuple, Any
 
 
-class ManusEngine:
+class Engine:
     """
     Main engine for adaptive prompt orchestration for NPCs.
     Manages the generation of dialogues and behaviors based on game context,
