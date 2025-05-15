@@ -1,0 +1,99 @@
+{
+  "npcs": [
+    {
+      "name": "Captain Lyra Novastella",
+      "class": "Star Explorer",
+      "alignment": "Neutral Good",
+      "backstory": "Born on a space station at the edge of the Milky Way, Lyra grew up watching the stars and dreaming of distant worlds. After graduating from the Cosmic Exploration Academy, she became the youngest captain in the discovery fleet, dedicating her life to mapping unknown systems and establishing peaceful contact with new civilizations. During a routine mission, Lyra discovered an ancient artifact that granted her the ability to sense cosmic energy fields, allowing her to navigate spatial routes previously considered impossible.",
+      "personality_traits": {
+        "optimism": 90,
+        "curiosity": 95,
+        "diplomacy": 85,
+        "adaptability": 88,
+        "courage": 82
+      },
+      "interaction_style": {
+        "first_meeting": "Warm and welcoming, Lyra greets new crew members with genuine enthusiasm, sharing stories of her most recent discoveries to break the ice.",
+        "under_stress": "Maintains calm and seeks creative solutions, often using light humor to relieve crew tension.",
+        "teaching_moments": "Prefers to guide through questions that stimulate thinking, encouraging others to find their own answers.",
+        "conflict_resolution": "Seeks to understand all perspectives before suggesting compromises, always emphasizing shared values."
+      }
+    },
+    {
+      "name": "Dr. Elian Thaumatec",
+      "class": "Techno-Mage Scientist",
+      "alignment": "Chaotic Good",
+      "backstory": "Elian grew up in a family of traditional engineers, but was always fascinated by the intersection between advanced science and unexplained phenomena. After years of secretly studying ancient texts from lost civilizations, he developed a unified theory connecting quantum principles with arcane energies. His floating laboratory, 'Paradox,' is a space where laws of physics are flexible and where he creates inventions that seem magical to common observers. Recently, he has been working on a device that allows creative thoughts to be materialized into temporary energy forms.",
+      "personality_traits": {
+        "creativity": 98,
+        "enthusiasm": 87,
+        "distraction": 75,
+        "generosity": 90,
+        "eccentricity": 95
+      },
+      "interaction_style": {
+        "first_meeting": "Speaks rapidly about multiple ideas at once, often interrupting himself to ask unrelated questions or offer small devices of his own creation.",
+        "under_stress": "Becomes hyper-focused, muttering equations and theorems while working on improbable but brilliant solutions.",
+        "teaching_moments": "Teaches through practical demonstrations and interactive experiments, encouraging students to question basic assumptions.",
+        "conflict_resolution": "Tries to transform conflicts into social experiments, proposing unconventional solutions that often surprise all parties involved."
+      }
+    },
+    {
+      "name": "Sylva Aerafrond",
+      "class": "Guardian of the Floating Forests",
+      "alignment": "Lawful Good",
+      "backstory": "Sylva was born during a rare astral convergence that occurs once every century, when the seeds of the ancestral trees of the Floating Forests are released into the air. They say she breathed the sacred pollen in her first breath, creating a symbiotic bond with the aerial ecosystem. As a Guardian, she can communicate with plants and direct their growth, creating living bridges and natural shelters. Her mission is to protect the delicate balance of the forests against external threats, while seeking to expand knowledge about the symbiosis between sustainable technology and nature.",
+      "personality_traits": {
+        "patience": 92,
+        "wisdom": 88,
+        "determination": 85,
+        "empathy": 90,
+        "serenity": 87
+      },
+      "interaction_style": {
+        "first_meeting": "Observes silently before speaking, offering small organic gifts (such as luminescent seeds or rare fruits) as a sign of welcome.",
+        "under_stress": "Becomes more connected with the natural environment, sometimes speaking in botanical metaphors while small flowers bloom in her hair.",
+        "teaching_moments": "Teaches through parables and stories from the forest, often demonstrating natural principles through small demonstrations with plants.",
+        "conflict_resolution": "Seeks solutions that benefit all parties, just as a healthy ecosystem benefits all its inhabitants."
+      }
+    },
+    {
+      "name": "Blip",
+      "class": "Sentient Alien Pet",
+      "alignment": "Neutral Chaotic",
+      "backstory": "No one knows exactly which planet Blip originated from. He was found hibernating inside a crystalline meteorite that fell during a meteor shower. With the size of a domestic cat and an appearance resembling a mix of fox, octopus, and rabbit, Blip has the ability to change color according to his mood and emit bioluminescent lights. Despite his cute appearance, he demonstrates surprising intelligence and the ability to understand complex concepts. Blip communicates through a combination of melodic sounds, emotional telepathy, and chromatic changes, creating a unique communication system with those he develops affinity with.",
+      "personality_traits": {
+        "curiosity": 99,
+        "loyalty": 95,
+        "mischief": 85,
+        "intuition": 90,
+        "unpredictability": 88
+      },
+      "interaction_style": {
+        "first_meeting": "Initially shy, observes from afar before cautiously approaching, changing to pastel tones of curiosity and emitting soft musical sounds.",
+        "under_stress": "Glows intensely in vibrant colors and may temporarily camouflage or emit small static discharges.",
+        "teaching_moments": "Communicates complex concepts through shared mental images and practical demonstrations, often using objects from the environment.",
+        "conflict_resolution": "Tries to distract conflicting parties with adorable behaviors or unusual phenomena, creating opportunities for reconciliation."
+      }
+    },
+    {
+      "name": "Mira Lumina",
+      "class": "Hero Apprentice",
+      "alignment": "Lawful Neutral",
+      "backstory": "Daughter of librarians in a small village on the periphery of the Stellar Empire, Mira grew up devouring stories of great heroes and epic adventures. When she turned 16, she left her village with nothing but an ancient family sword and a book of constellations, determined to find her own path and purpose in the universe. Although she doesn't possess extraordinary powers, her unwavering determination and ability to learn quickly have made her a valuable apprentice to various mentors throughout her journey. Recently, she discovered that her family's sword contains ancient inscriptions that glow when she faces challenges aligned with her true purpose, still unknown.",
+      "personality_traits": {
+        "determination": 95,
+        "idealism": 88,
+        "adaptability": 82,
+        "compassion": 90,
+        "insecurity": 70
+      },
+      "interaction_style": {
+        "first_meeting": "Enthusiastic and somewhat formal, tries to impress with knowledge from books and stories she has memorized, often quoting legendary heroes.",
+        "under_stress": "Initially doubts herself, but quickly recovers by remembering the lessons of her mentors and inspiring stories.",
+        "teaching_moments": "Learns best through practice and direct experience, asking many questions and trying to connect new knowledge with familiar stories.",
+        "conflict_resolution": "Seeks solutions that reflect the heroic values she admires, such as honor, justice, and protection of the vulnerable."
+      }
+    }
+  ]
+}
