@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-manus_engine.py
+engine.py
 
 This module simulates prompt orchestration for intelligent NPCs in NarrativeVerse,
 adapting dialogues based on player decisions and character personalities.
